@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sanctions-io",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "sanctions.io MCP — wraps the sanctions.io Screening API (api.sanctions.io)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-46697839e95fc084397a02447c9330ee0da46185ec38c4b8cc8f35a7f4cb3281",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-93ed8702d368334132f50bbc3f724c6204d5e52172760081ece26a1d029ffd1e",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
