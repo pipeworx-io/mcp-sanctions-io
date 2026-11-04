@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sanctions-io",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "sanctions.io MCP — wraps the sanctions.io Screening API (api.sanctions.io)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sanctions-io",
     "gatewaySlug": "sanctions-io",
-    "sourceHash": "v1-4904d102b07c5d53e770b870df737e32cfd06cdfe1b1626503b4dbe3ee871d98",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-5db0ca2ae9ee55c8e2ac8e12953844f2f8e6d04ad64a1c2ba2d3cbb4340ebcc4",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
